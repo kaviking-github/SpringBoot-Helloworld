@@ -2,7 +2,7 @@ package com.boot1.kavi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+//HelloWorld
 @SpringBootApplication
 public class Boot1Application {
 
