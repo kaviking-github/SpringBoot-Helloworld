@@ -5,7 +5,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import User.UserDetails;
+import com.boot1.kavi.User.UserDetails;
+
 
 @RestController
 public class HelloWorldController {

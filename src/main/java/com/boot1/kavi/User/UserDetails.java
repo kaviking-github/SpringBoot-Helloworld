@@ -1,4 +1,4 @@
-package User;
+package  com.boot1.kavi.User;
 
 public class UserDetails {
 
