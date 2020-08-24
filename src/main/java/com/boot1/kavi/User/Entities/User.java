@@ -12,7 +12,7 @@ import org.springframework.scripting.support.ResourceScriptSource;
 
 @Entity
 @Table(name="users")
-public class User extends ResourceScriptSource{
+public class User{
 
 	@Id
 	@GeneratedValue
