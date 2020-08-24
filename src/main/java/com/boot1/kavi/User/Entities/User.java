@@ -8,11 +8,9 @@ import javax.persistence.Table;
 import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.Size;
 
-import org.springframework.scripting.support.ResourceScriptSource;
-
 @Entity
 @Table(name="users")
-public class User extends ResourceScriptSource{
+public class User{
 
 	@Id
 	@GeneratedValue
